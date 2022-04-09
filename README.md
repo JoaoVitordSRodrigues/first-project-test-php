@@ -1,3 +1,3 @@
-"# first project test PHP" 
+First project test PHP
 
-Primeiro projeto teste usando php
+Primeiro projeto teste PHP
